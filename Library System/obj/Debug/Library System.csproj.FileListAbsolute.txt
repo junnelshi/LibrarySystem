@@ -1,0 +1,11 @@
+C:\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Library System\Library System\bin\Debug\Library System.exe
+C:\Library System\Library System\bin\Debug\Library System.pdb
+C:\Library System\Library System\obj\Debug\Library System.exe
+C:\Library System\Library System\obj\Debug\Library System.pdb
+C:\Library System\Library System\obj\Debug\LibrarySystem.Form3.resources
+C:\Library System\Library System\obj\Debug\LibrarySystem.Form4.resources
