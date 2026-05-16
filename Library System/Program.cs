@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using LibrarySystem; // ADD THIS
 
-namespace Library_System
+namespace LibrarySystem
 {
     static class Program
     {
@@ -14,7 +10,7 @@ namespace Library_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1()); // make sure Form1 exists
+            Application.Run(new MasterFiles());
         }
     }
 }

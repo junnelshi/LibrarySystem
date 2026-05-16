@@ -2,11 +2,9 @@ C:\Library System\Library System\bin\x86\Debug\Library System.exe.config
 C:\Library System\Library System\bin\x86\Debug\Library System.exe
 C:\Library System\Library System\bin\x86\Debug\Library System.pdb
 C:\Library System\Library System\obj\x86\Debug\Library System.csproj.AssemblyReference.cache
-C:\Library System\Library System\obj\x86\Debug\LibrarySystem.Form3.resources
-C:\Library System\Library System\obj\x86\Debug\LibrarySystem.Form4.resources
 C:\Library System\Library System\obj\x86\Debug\Library_System.Properties.Resources.resources
 C:\Library System\Library System\obj\x86\Debug\Library System.csproj.GenerateResource.cache
 C:\Library System\Library System\obj\x86\Debug\Library System.csproj.CoreCompileInputs.cache
 C:\Library System\Library System\obj\x86\Debug\Library System.exe
 C:\Library System\Library System\obj\x86\Debug\Library System.pdb
-C:\Library System\Library System\obj\x86\Debug\LibrarySystem.Form2.resources
+C:\Library System\Library System\obj\x86\Debug\Library System.exe.config
